@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00B4D8"         # Bright Aqua Blue (buttons, accents)
+backgroundColor = "#F8F9FA"      # Light gray background (clean, not too white)
+secondaryBackgroundColor = "#E3F2FD"  # Soft sky blue (sidebar, inputs)
+textColor = "#212529"            # Deep gray-black text (readable on light background)
+font = "sans serif"
